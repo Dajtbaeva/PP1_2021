@@ -1,0 +1,17 @@
+3
+Azamat 4
+5 A
+6 C-
+6 C
+4 A-
+Mikhail 5
+4 B+
+3 D
+5 C+
+6 C-
+4 F
+Ainur 4
+5 B+
+6 A
+6 B-
+3 C
